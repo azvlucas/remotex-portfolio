@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MachineList</class>
+ <widget class="QWidget" name="MachineList">
+  <property name="windowTitle"><string>Machines</string></property>
+ </widget>
+</ui>
